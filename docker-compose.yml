@@ -3,7 +3,7 @@ services:
     build: .
     container_name: smart-pig-farm-app
     ports:
-      - "3000:3000"
+      - "7731:7731"
     volumes:
       - ./data:/app/data
     environment:

@@ -33,7 +33,7 @@ COPY src/db.ts ./src/db.ts
 # Since we are using tsx to run the server in this simple setup
 RUN npm install -g tsx
 
-EXPOSE 3000
+EXPOSE 7731
 
 ENV NODE_ENV=production
 

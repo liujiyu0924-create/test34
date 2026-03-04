@@ -1,0 +1,8 @@
+node_modules
+dist
+farm.db
+.git
+.env
+README.md
+Dockerfile
+docker-compose.yml
